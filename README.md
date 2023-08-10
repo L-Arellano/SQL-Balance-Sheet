@@ -1,5 +1,5 @@
-# Text-Analytics-Project-with-R
 <div id="top"></div>
+
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
