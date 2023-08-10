@@ -60,7 +60,7 @@ Project Link: [https://github.com/L-Arellano/SQL-Balance-Sheet](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/L-Arellano/SQL-Balance-Sheet.svg?style=for-the-badge
-[issues-url]: https://github.com/L-Arellano/SQL-Balance-Sheet/issues
+[issues-shield]: https://img.shields.io/github/issues/L-Arellano/Group-Python-Prediction-Model-Kaggle-Competition.svg?style=for-the-badge
+[issues-url]: https://github.com/L-Arellano/Group-Python-Prediction-Model-Kaggle-Competition/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/luis-arellano-a312631bb/
+[linkedin-url]: https://linkedin.com/in/luis-arellano-a312631bb/
