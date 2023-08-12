@@ -11,10 +11,10 @@
   <a href="https://github.com/L-Arellano/SQL-Balance-Sheet">
   </a>
 
-<h3 align="center">Twitter Text Analytics Project with R</h3>
+<h3 align="center">Balance Sheet and P&L Statement Creation using SQL</h3>
 
   <p align="center">
-    Text Analytics in which through the use of the Twitter API, tweets were extracted and analyzed through R
+    Using SQL to Automate the generation of Balance Sheets and P&L Statements.
     <br />
     <a href="https://github.com/L-Arellano/SQL-Balance-Sheet"><strong>Explore the docs »</strong></a>
     <br />
@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This SQL project is designed to automate the generation of a balance sheet within the 'h_accounting' database for a specified year. The procedure, titled 'T3_BS', crafts a temporary table that categorizes financial data into sections like Assets, Liabilities, and Equity. It pulls data from existing tables, taking into consideration specific filters such as 'balance_sheet_section_id' and the 'cancelled' status. The final balance sheet shows values for both the selected year and the previous year, all derived from the respective journal entries.
+This SQL project is designed to automate the generation of a balance sheet as well as a P&L statement within the 'h_accounting' database for a specified year. The procedure, titled 'T3_BS', crafts a temporary table that categorizes financial data into sections like Assets, Liabilities, and Equity. It pulls data from existing tables, taking into consideration specific filters such as 'balance_sheet_section_id' and the 'cancelled' status. The final balance sheet shows values for both the selected year and the previous year, all derived from the respective journal entries.
 
 
 <!-- CONTACT -->
