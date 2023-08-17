@@ -49,7 +49,7 @@ This SQL project is designed to automate the generation of a balance sheet as we
 <!-- CONTACT -->
 ## Contact
 
-Diego Polar - luisaur10@hotmail.com
+Luis Arellano - luisaur10@hotmail.com
 
 Project Link: [https://github.com/L-Arellano/SQL-Balance-Sheet](https://github.com/L-Arellano/SQL-Balance-Sheet)
 
